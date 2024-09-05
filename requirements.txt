@@ -1,0 +1,10 @@
+fido2
+pickle-mixin
+uuid
+pyodbc
+flask
+plyer
+flask-cors
+py-diffie-hellman
+cryptography
+requests
